@@ -1,8 +1,8 @@
 ### Olá Olá! Eu sou a Atr3ssa 👽
 <div>
   <a href="https://github.com/atr3ssa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atr3ssa&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atr3ssa&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
