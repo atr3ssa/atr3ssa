@@ -1,4 +1,4 @@
-### Olá Olá! Eu sou a Atr3ssa 👽
+### Olá Olá! Eu sou a Atr3ssa 👽🖖
 <div>
   
   <a href="https://github.com/atr3ssa">
