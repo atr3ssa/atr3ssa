@@ -1,7 +1,8 @@
 ### Olá Olá! Eu sou a Atr3ssa 👽
 <div>
+  
   <a href="https://github.com/atr3ssa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&theme=chartreuse-dark&show_icons=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atr3ssa&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
