@@ -2,8 +2,8 @@
 <div>
   
   <a href="https://github.com/atr3ssa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&theme=chartreuse-dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atr3ssa&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atr3ssa&theme=chartreuse-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atr3ssa&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
