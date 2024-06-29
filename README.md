@@ -1,5 +1,5 @@
 # `Olá Olá! Eu sou a Atr3ssa ` 👽🖖
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+Bem-Vindo+ao+meu+portfólio!;Espero+que+goste+🛸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+Bem-Vindo+ao+meu+portfólio!;Feedbacks+são+sempre+bem-vindos+🛸+)](https://git.io/typing-svg)
 
 
 <div>
