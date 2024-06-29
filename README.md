@@ -1,5 +1,6 @@
 # `Olá Olá! Eu sou a Atr3ssa ` 👽🖖
-font=Handjet&size=40&pause=1000&color=13B4F7&size=40&center=true&vCenter=true&width=1000&lines=bem+vindos!+welcome!;backend+developer;development+studant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+Bem-Vindo+ao+meu+portfólio!;Espero+que+goste+🛸)](https://git.io/typing-svg)
+
 
 <div>
   <a href="https://github.com/atr3ssa">
