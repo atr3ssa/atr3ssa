@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 # `Olá Olá! Eu sou a Atr3ssa ` 👽🖖
+- Intern at @Núclea 🔎
+- Computer Science Student 💻
+- Focused on Java and SQL at the moment ⌨️
+
+
 ***
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Handjet&size=40&pause=1000&color=13B4F7&size=35&center=false&vCenter=true&width=1000&lines=Seja+Bem-Vindo+ao+meu+portfólio!;Feedbacks+são+sempre+bem-vindos+🛸;Fique+á+vontade+para+me+contatar!)](https://git.io/typing-svg)
