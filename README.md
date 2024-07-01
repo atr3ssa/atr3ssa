@@ -2,7 +2,7 @@
 
 # `Olá Olá! Eu sou a Atr3ssa ` 👽🖖
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Handjet&size=40&pause=1000&color=13B4F7&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo+ao+meu+portfólio!;Feedbacks+são+sempre+bem-vindos+🛸;Fique+á+vontade+para+me+contatar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Handjet&size=40&pause=1000&color=13B4F7&size=30&center=false&vCenter=true&width=1000&lines=Seja+Bem-Vindo+ao+meu+portfólio!;Feedbacks+são+sempre+bem-vindos+🛸;Fique+á+vontade+para+me+contatar!)](https://git.io/typing-svg)
 
 
 <div>
