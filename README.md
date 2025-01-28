@@ -4,9 +4,8 @@
 - Intern at @Núclea 🔎
 - Computer Science Student 💻
 - Focused on Java and SQL at the moment ⌨️
-
-
-***
+<img src="https://i.pinimg.com/originals/cc/77/c7/cc77c73075e343563d4b1736a7fb8fe9.gif" width="1000">
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Handjet&size=40&pause=1000&color=13B4F7&size=35&center=false&vCenter=true&width=1000&lines=Seja+Bem-Vindo+ao+meu+portfólio!;Feedbacks+são+sempre+bem-vindos+🛸;Fique+á+vontade+para+me+contatar!)](https://git.io/typing-svg)
 
@@ -31,8 +30,9 @@
  <a href="https://discord.gg/zdfT89nx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dre.emy89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-rab%C3%AAlo-7839711bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+
 
  
   
